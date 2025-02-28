@@ -9,8 +9,6 @@ You can find ORL_mtv_m dataset used ine the papat at [Baidu Netdisk](https://pan
 ##Create a new "Datasets" folder and place the downloaded dataset in it.
 ```
 
-```
-
 ## Ciation
 If you find our work useful in your research, please consider citing:
 ```
