@@ -20,10 +20,11 @@ Create a new "Datasets" folder and place the downloaded dataset in it.
 
 ## Citation: If this work has been helpful to you, please cite this paper. Thank you.
 
-
+```
 @inproceedings{li2024fast,
   title={Fast unpaired multi-view clustering},
   author={Li, Xingfeng and Pan, Yuangang Pan and Sun, Yinghui and Sun, Quansen Sun and Tsang, Ivor W and Ren, Zhenwen},
   booktitle={Proceedings of the 33rd International Joint Conference on Artificial Intelligence},
   year={2024}
 }
+```
