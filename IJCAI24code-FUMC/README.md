@@ -8,9 +8,15 @@ This repo is the source code for the paper "Fast Unpaired Multi-view Clustering"
 
 ### Running Environment
 ```
-
 Matlab. Run demo_unalign_FUMC.m
 ```
+
+## Datasets
+```
+Create a new "Datasets" folder and place the downloaded dataset in it.
+You can find more datasets used ine the papat at [Baidu Netdisk](https://pan.baidu.com/s/16Od1AVSx05WWCrpPyw2mww?pwd=dt03) code: dt03
+```
+
 ## Citation: If this work has been helpful to you, please cite this paper. Thank you.
 
 
