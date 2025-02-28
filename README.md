@@ -5,7 +5,7 @@ This repo contains the code and data of our IJCAI 2024 paper "Fast Unpaired Mult
 
 ## Datasets
 You can find ORL_mtv_m dataset used ine the papat at [Baidu Netdisk](https://pan.baidu.com/s/16Od1AVSx05WWCrpPyw2mww?pwd=dt03) code: dt03
-##Create a new "Datasets" folder and place the downloaded dataset in it.
+## Create a new "Datasets" folder and place the downloaded dataset in it.
 
 ```
 
