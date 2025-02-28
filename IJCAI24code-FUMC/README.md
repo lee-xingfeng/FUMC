@@ -1,5 +1,5 @@
 ---
-Source code for paper "Incomplete Multi-view Clustering with Paired and Balanced Dynamic Anchor Learning" on IEEE Transactions on Multimedia 2024.
+Source code for paper "Fast Unpaired Multi-view Clustering" on IJCAI 2024 2024.
 ---
 ## Introduction
 ### About the paper
