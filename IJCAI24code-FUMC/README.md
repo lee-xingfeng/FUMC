@@ -1,27 +1,22 @@
 ---
-Source code for paper "Fast Unpaired Multi-view Clustering" on IJCAI 2024 2024.
+Source code for paper "Fast Unpaired Multi-view Clustering" on IJCAI 2024.
 ---
 ## Introduction
 ### About the paper
-This repo is the source code for the paper "Incomplete Multi-view Clustering with Paired and Balanced Dynamic Anchor Learning" on IEEE Transactions on Multimedia. If you have any questions about the source code, please contact: lixingfeng@njust.edu.cn.
+This repo is the source code for the paper "Fast Unpaired Multi-view Clustering" on IJCAI 2024. If you have any questions about the source code, please contact: lixingfeng@njust.edu.cn.
 
-![framework](/figure/TMM24_model.png)
 
 ### Running Environment
 ```
-A desktop Windows PC with an Intel Core i9 CPU and 64GB RAM
 
-matlab 2018
-
-Matlab. Run demo_PBDAL.m
+Matlab. Run demo_unalign_FUMC.m
 ```
 ##Citation: If this work has been helpful to you, please cite this paper. Thank you.
 
 
-@article{li2024incomplete,
-  title={Incomplete Multi-view Clustering with Paired and Balanced Dynamic Anchor Learning},
-  author={Li, Xingfeng and Pan, Yuangang Pan and Sun, Yuan and Sun, Quansen and Sun, Yinghui and W. Tsang, Ivor and Ren, Zhenwen},
-  journal={IEEE Transactions on Multimedia},
-  year={2024},
-  publisher={IEEE}
+@inproceedings{li2024fast,
+  title={Fast unpaired multi-view clustering},
+  author={Li, Xingfeng and Pan, Yuangang Pan and Sun, Yinghui and Sun, Quansen Sun and Tsang, Ivor W and Ren, Zhenwen},
+  booktitle={Proceedings of the 33rd International Joint Conference on Artificial Intelligence},
+  year={2024}
 }
