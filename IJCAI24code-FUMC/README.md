@@ -12,7 +12,7 @@ Matlab. Run demo_unalign_FUMC.m
 ```
 
 ## Datasets
-You can find more datasets used ine the papat at [Baidu Netdisk](https://pan.baidu.com/s/16Od1AVSx05WWCrpPyw2mww?pwd=dt03) code: dt03
+You can find ORL_mtv_m dataset used ine the papat at [Baidu Netdisk](https://pan.baidu.com/s/16Od1AVSx05WWCrpPyw2mww?pwd=dt03) code: dt03
 ```
 Create a new "Datasets" folder and place the downloaded dataset in it.
 
